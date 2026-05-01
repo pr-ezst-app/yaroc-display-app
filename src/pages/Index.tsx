@@ -75,7 +75,7 @@ export default function Index() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-stone-100">
         <div className="max-w-6xl mx-auto px-8 py-5 flex items-center justify-between">
           <span className="font-display text-xl font-light tracking-wide">
-            Alex Morgan
+            Daniel Yarockii
           </span>
           <div className="hidden md:flex items-center gap-10 text-sm font-light tracking-widest uppercase text-stone-400">
             <button onClick={() => scrollTo("work")} className="hover:text-stone-900 transition-colors">Work</button>
